@@ -14,7 +14,14 @@ body {
 }
 
 header, footer {
-    background-color: #f4d3c2;
+    background-color: #c295df;
     padding: 1em;
     margin-bottom: 1em;
+}
+.logo{
+    width: 100px;
+}
+.pastelería{
+    display: block;
+    margin: 0 auto;
 }
