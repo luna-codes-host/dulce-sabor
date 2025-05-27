@@ -1,10 +1,10 @@
 # Pastelería Lunita
 
-_Un emprendimiento de una Pateleria "Lunita", cada dulce es una obra de arte. Nos especializamos en crear pasteles, postres y repostería artesanal que no solo deleitan el paladar, sino que también cuentan una historia. Utilizamos ingredientes frescos y de la más alta calidad para garantizar el sabor y la frescura en cada bocado.
+Un emprendimiento de una Pateleria "Lunita", cada dulce es una obra de arte. Nos especializamos en crear pasteles, postres y repostería artesanal que no solo deleitan el paladar, sino que también cuentan una historia. Utilizamos ingredientes frescos y de la más alta calidad para garantizar el sabor y la frescura en cada bocado.
 
 Ya sea que estés celebrando un cumpleaños, una boda, un evento especial o simplemente quieras darte un gusto, estamos aquí para endulzar tus momentos más importantes.
 
-¡Ven y descubre el sabor que enamora!_
+¡Ven y descubre el sabor que enamora!
 
 ## Comenzando 🚀
 
